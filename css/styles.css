@@ -1,0 +1,17 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  text-transform: uppercase;
+  border-bottom: 1px solid #000000;
+}
+
+.nav-list {
+  display: flex;
+  gap: 1rem;
+  margin-left: auto;
+  list-style: none;
+}
